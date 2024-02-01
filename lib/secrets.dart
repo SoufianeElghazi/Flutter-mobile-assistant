@@ -1,0 +1,1 @@
+const openAIAPIKey = 'YOUR OPEN AI API KEY HERE';
